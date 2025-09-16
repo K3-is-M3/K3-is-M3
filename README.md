@@ -5,7 +5,7 @@
 
 - <b>Monitoring Linux Servers using Prometheus, node-exporter and Grafana</b>
   - [Wanna See?](https://github.com/K3-is-M3/Server-Monitoring)
-- <b>Monitoring Vsphere using telegraf, influxdb and Grafana</b>
+- <b>Monitoring Vsphere (Cloud Computing Virtualization Platform) using telegraf, influxdb and Grafana</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Hosting virtual Hosts on Linux using webservers (Nginx & Apache)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
