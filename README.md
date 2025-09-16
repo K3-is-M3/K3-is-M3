@@ -4,7 +4,7 @@
 <h3>1. IT Infrastructure</h3>
 
 - <b>Monitoring Linux Servers using Prometheus, node-exporter and Grafana</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Wanna See?](https://github.com/K3-is-M3/Server-Monitoring)
 - <b>Monitoring Vsphere using telegraf, influxdb and Grafana</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Hosting virtual Hosts on Linux using webservers (Nginx & Apache)</b>
