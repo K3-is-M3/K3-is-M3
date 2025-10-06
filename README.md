@@ -6,13 +6,13 @@
 - <b>Monitoring Linux Servers using Prometheus, node-exporter and Grafana</b>
   - [Wanna See?](https://github.com/K3-is-M3/Server-Monitoring)
 - <b>Monitoring Vsphere (Cloud Computing Virtualization Platform) using telegraf, influxdb and Grafana</b>
-  - [Click Me!](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Click Me!](https://github.com/K3-is-M3/Monitoring-Vsphere) 
 - <b>Hosting virtual Hosts on Linux using webservers (Nginx & Apache)</b>
-  - [See for yourself ;)](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [See for yourself ;)](https://github.com/K3-is-M3/Serving-virtual-hosts-on-Nginx-webserver)
 - <b>Procuring SSL certificates for your pfsense</b>
-  - [Right this way -->](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Right this way -->](https://github.com/K3-is-M3/PfSense-SSL-for-your-domain)
 - <b>Create your own OpenVPN server on Pfsense</b>
-  - [Connecting...](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Connecting...](https://github.com/K3-is-M3/Create-OpenVPN-server-on-Pfsense)
 
 
 
