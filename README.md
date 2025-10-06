@@ -8,7 +8,7 @@
 - <b>Monitoring Vsphere (Cloud Computing Virtualization Platform) using telegraf, influxdb and Grafana</b>
   - [Click Me!](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Hosting virtual Hosts on Linux using webservers (Nginx & Apache)</b>
-  - [See for yourself..](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [See for yourself :)](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Procuring SSL certificates for your pfsense</b>
   - [Right this way -->](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Create your own OpenVPN server on Pfsense</b>
