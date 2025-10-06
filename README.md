@@ -11,8 +11,8 @@
   - [See for yourself..](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Procuring SSL certificates for your pfsense</b>
   - [Right this way->](https://github.com/joshmadakor1/EncrypterPOC)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Create your own OpenVPN server on Pfsense</b>
+  - [Connecting...](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 
