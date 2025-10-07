@@ -1,3 +1,11 @@
+██╗  ██╗██████╗  <br>
+██║ ██╔╝╚════██╗ <br>
+█████╔╝  █████╔╝ <br>
+██╔═██╗  ╚═══██╗ <br>
+██║  ██╗██████╔╝ <br>
+╚═╝  ╚═╝╚═════╝  <br>
+
+
 <h1>Hi, I'm Kelvin! <br/><a href="https://github.com/K3-is-M3">IT Specialist</a>, <a href="https://cyberhunter-portfolio.lovable.app/">Cybersecurity Professional</a></h1>
 
 <h2>IT Projects</h2>
